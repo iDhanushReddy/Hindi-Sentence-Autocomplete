@@ -1,0 +1,8 @@
+1.Hindi Wikipedia Articles - 172k:
+
+https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k
+
+
+2. IIT Bombay English-Hindi Corpus
+
+https://www.cfilt.iitb.ac.in/iitb_parallel/
